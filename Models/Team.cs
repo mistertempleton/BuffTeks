@@ -6,7 +6,7 @@ namespace BuffTeks.Models
     {
         // attribute list
         // PK
-        // Student list - PK
+        // Student list - PK???
         
     }
 }
