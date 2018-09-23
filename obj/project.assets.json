@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ar913509\\.nuget\\packages\\": {},
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CIDM3312\\BuffTeks\\BuffTeks.csproj",
+      "projectUniqueName": "c:\\Users\\alexa\\source\\repos\\BuffTeks\\BuffTeks.csproj",
       "projectName": "BuffTeks",
-      "projectPath": "C:\\CIDM3312\\BuffTeks\\BuffTeks.csproj",
-      "packagesPath": "C:\\Users\\ar913509\\.nuget\\packages\\",
-      "outputPath": "C:\\CIDM3312\\BuffTeks\\obj\\",
+      "projectPath": "c:\\Users\\alexa\\source\\repos\\BuffTeks\\BuffTeks.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\alexa\\source\\repos\\BuffTeks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ar913509\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

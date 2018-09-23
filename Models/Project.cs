@@ -5,10 +5,11 @@ namespace BuffTeks.Models
     public class Project
     {
         // attribute list
-        // PK
-        // name
-        // leader = FK team lead
-        // client = FK client
-        // deadline - (Formatted as DateTime in C#)
+        int projectId;
+        string projectName;
+        string projectLeader; // FK
+        string client; // FK
+        string deadline = date.ToLongDateString();
+
     }
 }
